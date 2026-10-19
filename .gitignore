@@ -1,0 +1,14 @@
+# .gitignore for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.egg-info/
+.env
+venv/
+.env*/
+*.log
+.DS_Store
+.idea/
+.vscode/
